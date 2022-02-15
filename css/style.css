@@ -4,8 +4,6 @@
     background: url("/images/bkg.gif") ;  
     background-size: 1300px 1400px;
     background-position: center;
-    
-   
 }
 
 *{
@@ -23,23 +21,11 @@ h1 {
 
 }
 
-
-
 h2 {
     font-size: 4.2rem;
     margin-bottom: 4rem;
 }
-#background-video {
-    width: 100vw;
-    height: 100vh;
-    object-fit: cover;
-    position: fixed;
-    left: 0;
-    right: 0;
-    top: 0;
-    bottom: 0;
-    z-index: -1;
-  }
+
 .container {
     width: 100vw;
     height: 100vh;
